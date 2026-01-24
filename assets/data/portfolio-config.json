@@ -216,7 +216,7 @@
         {
             "title": "OCI AI Foundations Associate",
             "subtitle": "- Oracle",
-            "logo_path": "oracle.png",
+            "logo_path": "oracle.svg",
             "certificate_link": "https://catalog-education.oracle.com/ords/certview/sharebadge?id=9F9A9CFF62AC44C2916D1F365046B0510CD0B3A47711B9ADAAF88A2E19014686",
             "alt_name": "Oracle",
             "color_code": "#ffffff"
@@ -224,7 +224,7 @@
         {
             "title": "Azure Developer Associate",
             "subtitle": "- Microsoft",
-            "logo_path": "microsoft.png",
+            "logo_path": "microsoft.svg",
             "certificate_link": "https://learn.microsoft.com/en-us/users/piyushchouhan-0396/credentials/1ea6052dc007cc1",
             "alt_name": "Microsoft Certified: Azure Developer Associate",
             "color_code": "#ffffff"
@@ -232,7 +232,7 @@
         {
             "title": "Azure Fundamentals",
             "subtitle": "- Microsoft",
-            "logo_path": "microsoft.png",
+            "logo_path": "microsoft.svg",
             "certificate_link": "https://learn.microsoft.com/en-us/users/PiyushChouhan-0396/credentials/B8A958BD54B5E85B",
             "alt_name": "Microsoft Certified: Azure Fundamentals",
             "color_code": "#ffffff"
@@ -240,7 +240,7 @@
         {
             "title": "Github Copilot Champion",
             "subtitle": "- Cognizant",
-            "logo_path": "cognizant.png",
+            "logo_path": "cognizant.svg",
             "certificate_link": "https://arrow023.github.io/ResumePDF/copilot_hackathon.pdf",
             "alt_name": "Cognizant Fusion Hackathon",
             "color_code": "#ffffff"
@@ -256,7 +256,7 @@
         {
             "title": "Fullstack Development",
             "subtitle": "- Coursera",
-            "logo_path": "coursera_logo.png",
+            "logo_path": "coursera.svg",
             "certificate_link": "https://coursera.org/share/4e859f989ea26c4070ad398fd66e2f64",
             "alt_name": "Coursera",
             "color_code": "#2A73CC"
@@ -308,7 +308,7 @@
                         "title": "Software Engineer 2 | Full Stack & AI",
                         "company": "Trimble Inc.",
                         "company_url": "https://www.trimble.com/en",
-                        "logo_path": "trimble.png",
+                        "logo_path": "trimble.svg",
                         "duration": "Apr 2025 - Present",
                         "location": "Chennai, TN, India",
                         "description": [
@@ -324,7 +324,7 @@
                         "title": "Software Engineer | Azure Developer",
                         "company": "Cognizant Technology Solutions",
                         "company_url": "https://www.cognizant.com/in/en",
-                        "logo_path": "cognizant.png",
+                        "logo_path": "cognizant.svg",
                         "duration": "Oct 2023 - Apr 2025",
                         "location": "Chennai, TN, India",
                         "description": [
@@ -340,7 +340,7 @@
                         "title": "Junior Software Engineer | .NET Developer",
                         "company": "Cognizant Technology Solutions",
                         "company_url": "https://www.cognizant.com/in/en",
-                        "logo_path": "cognizant.png",
+                        "logo_path": "cognizant.svg",
                         "duration": "Aug 2022 - Sep 2023",
                         "location": "Chennai, TN, India",
                         "description": [
@@ -357,7 +357,7 @@
                         "title": "Software Engineer Trainee | .NET Developer",
                         "company": "Cognizant Technology Solutions",
                         "company_url": "https://www.cognizant.com/in/en",
-                        "logo_path": "cognizant.png",
+                        "logo_path": "cognizant.svg",
                         "duration": "Aug 2021 - Aug 2022",
                         "location": "Chennai, TN, India",
                         "description": [
@@ -379,7 +379,7 @@
                         "title": "Programmer Analyst Trainee | Full Stack Developer",
                         "company": "Cognizant Technology Solutions",
                         "company_url": "https://www.cognizant.com/in/en",
-                        "logo_path": "cognizant.png",
+                        "logo_path": "cognizant.svg",
                         "duration": "Feb 2021 - Jun 2021",
                         "location": "Chennai, TN, India",
                         "description": [
